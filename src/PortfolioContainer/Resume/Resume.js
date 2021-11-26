@@ -66,27 +66,27 @@ const Resume = (props) => {
 
   const projectsDetails = [
     {
-      title: "Personal Portfolio Website",
+      title: "TimeKeepers Web App",
       duration: { fromDate: "2020", toDate: "2021" },
       description:
-        "A Personal Portfolio website to showcase all my details and projects at one place.",
-      subHeading: "Technologies Used: React JS, Bootsrap",
+        "● Developed a dynamic website for an online shopping service where users can book orders and make an online payment",
+      subHeading: "Technologies Used: : ReactJS, NodeJs, ExpressJs, MongoDB, Bootstrap, FirebaseAuthentication and hosting,React-hook-form, Heroku",
     },
     {
-      title: "Mobile E-shop ",
+      title: ". HopeMedical Service Web App ",
       duration: { fromDate: "2020", toDate: "2021" },
       description:
-        "An ecommerce application designed to sell products online wth payment system integration",
+        "Implemented firebase authentication system with the google private route, and Email sign-in method",
       subHeading:
-        "Technologies Used:  React Native, Mongo DB, Express Js, Node Js, Redux.",
+        ": Html, CSS, Bootstrap, React.js, MongoDB,Firebase, Authentication, and hosting",
     },
     {
-      title: "Ecommerce Website ",
+      title: "Madang Food Delivery Web App ",
       duration: { fromDate: "2020", toDate: "2021" },
       description:
-        "Online ecommerce website for showcasing and selling products onlne with payment system integration, both Paypal and Stripe",
+        " Programmed to add new service process that will be shown on the home page dynamically order",
       subHeading:
-        "Technologies Used: Mongo DB, Epress Js, React Js, Node JS, Redux, Bootstrap.",
+        "Technologies Used:ReactJS,ExpressJs,MongoDB,Bootstrap,FirebaseAuthentication and hosting,React-hook-form ,Heroku..",
     },
   ];
 
