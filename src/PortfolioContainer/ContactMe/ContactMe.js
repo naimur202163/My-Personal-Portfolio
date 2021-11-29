@@ -1,10 +1,11 @@
 import React from 'react';
 import { Form, Button } from 'react-bootstrap';
+import Footer from '../Home/Footer/Footer';
 const ContactMe = () => {
   return (
 
     <div className="row container">
-      <h2 className="text-muted ">Contact Me</h2>
+      <h2 className="text-muted text-center ">Contact Me</h2>
       <div className="col-lg-6 col-sm-12 my-5">
 
         <div  >
@@ -12,7 +13,7 @@ const ContactMe = () => {
         </div>
 
       </div>
-      <div className="col-lg-6 col-sm-12 my-4 me:2">
+      <div className="col-lg-6 col-sm-12 my-4 ">
 
 
 
@@ -43,7 +44,7 @@ const ContactMe = () => {
           </Button>
         </Form>
       </div>
-
+      <Footer />
     </div>
 
 
