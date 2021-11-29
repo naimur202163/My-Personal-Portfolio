@@ -45,7 +45,7 @@ export default function Testimonial(props) {
 
   return (
     <div>
-      <ScreenHeading
+      {/* <ScreenHeading
         title={"Testimonial"}
         subHeading={"What My Client Say About Me"}
       />
@@ -204,7 +204,7 @@ export default function Testimonial(props) {
       </section>
       <div className="footer-image">
         <img src={shape} alt="image not responding" />
-      </div>
+      </div> */}
     </div>
   );
 }
